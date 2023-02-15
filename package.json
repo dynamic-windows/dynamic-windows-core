@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-windows-core",
+  "version": "0.1.0",
+  "description": "Dynamic windows engine abstraction.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "",
+    "build": "tsc"
+  },
+  "files": [
+    "/dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dynamic-windows/dynamic-windows-core.git"
+  },
+  "dependencies": {
+    "tslib": "^2.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
